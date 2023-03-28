@@ -19,6 +19,6 @@
   <a href="https://discord.gg/Sullywan#0695" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:araujo.sullywan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
   
-  ![Snake animation](https://github.com/sullywan-araujo/sullywan-araujo/blob/outpu/github-contribution-grid-snake.svg)
+  ![Snake gif](https://github.com/sullywan-araujo/sullywan-araujo/blob/outpu/github-contribution-grid-snake.svg)
   
 </div>
